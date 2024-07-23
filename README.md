@@ -21,5 +21,26 @@ Quantity
 Price
 Revenue
 
+## Analysis and Visualizations
+The Power BI report includes several pages, each dedicated to a different aspect of the EDA. Some of the key analyses and visualizations include:
+
+###### Sales Overview:
+Total revenue, total orders, and average order value.
+Sales trends over time (daily, monthly, yearly).
+
+##### Product Analysis:
+Top-selling products and categories.
+Revenue contribution by product category.
+
+##### Customer Analysis:
+Geographic distribution of customers.
+Customer segmentation based on purchase behavior.
+
+##### Order Analysis:
+Order status distribution.
+Shipping times and delays.
+
+## Conclusion
+The EDA conducted in this project provides valuable insights into the e-commerce business dataset. The visualizations and analyses can help stakeholders understand the business performance, identify opportunities for improvement, and make informed decisions.
 
 
